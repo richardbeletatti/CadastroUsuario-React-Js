@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Richard Beletatti Alves da Silva",
+      "email": "richard@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Camila Antunes Alves da Silva",
+      "email": "camila@gmail.com"
+    }
+  ]
+}
